@@ -14,6 +14,10 @@
   
   Code was written by Ben Cawley
   Except for the DHT Sensor Library written by Adafruit.
+
+  ToDo:
+    When I get an Arduino with more pins I will add an LCD screen to display the Temp and Temp Settings so that the
+    device wont need to be conected to the computer inorder to see the infomation. 
    
 */
 //==========My Classes==========
